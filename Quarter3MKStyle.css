@@ -1,0 +1,25 @@
+body {
+	background-color:purple;
+	text-color: yellow;
+	}
+h1 {
+	text-align:center !important;
+	background-color:purple !important;
+	}
+.backcolor {
+background-color:blue; 
+	}
+#tableheader {
+font-style:bold;
+font-style:italic;
+background-color:red;
+	}
+.image {
+text-align:center;
+border-color: pink;
+height: 500px;
+length: 500px;
+
+.footer {
+font-size: 11px;
+	}
